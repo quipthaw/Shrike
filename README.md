@@ -1,6 +1,6 @@
 ## SHRIKE
-A directory buster written in rust.
-Potential DDOS Tool 
+
+A directory buster tool that uses brute force combined with a wordlist to search for unlinked content in target directories. These resources may store sensitive information about web applications and operational systems, such as source code, credentials, internal network addressing, etc...
 
 To Compile and Run:
 1) Make sure rust is installed (rust --version)
