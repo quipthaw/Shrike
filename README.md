@@ -9,4 +9,4 @@ To Compile and Run:
 4) Run 'cargo run -- -u <URL> -w <WORDLIST FILE>
 
   
- ![image](https://github.com/quipthaw/Shrike/assets/98988760/0cd46c1b-861a-400c-92f2-e8904ef9f74c)
+![image](https://github.com/quipthaw/Shrike/assets/98988760/0cd46c1b-861a-400c-92f2-e8904ef9f74c)
